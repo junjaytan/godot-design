@@ -13,7 +13,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="icon_GUI_indeterminate_checkbox.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,9 +57,9 @@
      id="path10" />
   <rect
      id="rect3715"
-     width="13.152542"
+     width="9.8983049"
      height="2.5762713"
-     x="1.4237288"
+     x="2.9830508"
      y="6.8474574"
-     style="fill:#e0e0e0;fill-opacity:1" />
+     style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.86751217" />
 </svg>
